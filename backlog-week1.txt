@@ -1,0 +1,7 @@
+Task                     | Who              |  Status     | Expected Date |
+-------------            | -------------    |  ---------- | ------------- |
+Login  PAGE              |  chakri          |  Completed  |   11-04-2021  |
+register Page            |  vardhaman       |  Completed  |   11-04-2021  |
+Admin Page               |  Manoj           |  Completed  |   11-04-2021  |
+Enquiry                  |  puneeth         |  Completed  |   11-04-2021  |
+                         
